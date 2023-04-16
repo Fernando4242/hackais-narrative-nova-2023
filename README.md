@@ -2,6 +2,6 @@
 
 ## File Structure
 - src 
-contains all frontend logic
+  - contains all frontend logic
 - python
-contains api
+  - contains api
