@@ -1,6 +1,6 @@
 # Narrative Nova
 
-**the keys are not valid btw so dont try it**
+**Keys in the code are not valid.**
 
 ## File Structure
 - src 
